@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;1,500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    width:100%;
+    height:120px;
+    display:flex;
+    justify-content:center;
+    justify-items: center;
+    background-color:black;
+    margin-right: 140px;
+}
+img{
+    padding-left: 10px;
+    width:250px;
+    height:100px;
+    margin-right: 350px;
+}
+ li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    color:rgb(234, 232, 228);
+    padding-top: 30px;
+    font-size: 16px;
+    margin-top: 20px;
+     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+    
+}
+p{
+margin-left: 30px;
+margin-top: 40px;
+background-color:#FF6900;
+width:110px;
+height: 45px;
+color:white;
+text-align: center;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.head2{
+    background-image:url(https://bruoklahoma.com/wp-content/uploads/2021/10/Bru_Coffee_House2.png);
+    width:100%;
+    height:400px;
+    background-size: cover;
+    padding-top: 10px;
+    
+}
+#h1{
+    background-image:url(https://bruoklahoma.com/wp-content/uploads/2021/10/Bru_Logo_Transparent-02.png);
+    width:350px;
+    height:300px;
+    margin-left:400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+   margin-top: 80px;
+}
+.h2{
+    
+    height:50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: center;
+    padding-top: 200px;    
+ }
+ .btn{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: transparent;
+    border-color:#FFFFFF;
+    color:#FFFFFF;
+    align-items: center;
+    width: 210px;
+    height: 50px;
+
+ } 
+ h1{
+    color:#333333;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .container{
+    max-width: 1000px;
+    margin:auto;
+    background: white;
+    display: flex;
+ }
+ .gallery{
+    margin: 10px;
+    border: 1px solid white;
+    float: left;
+    width:300px;
+ }
+ .gallery img{
+    width: 100%;
+    height: auto;
+ }
+ .desc{
+    padding: 30px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+ }
+ .container2{
+    max-width: 1000px;
+    margin:auto;
+    background: white;
+    display: flex;
+ }
+ .gallery2{
+    margin: 10px;
+    border: 1px solid white;
+    float: left;
+    width:300px;
+ }
+ .gallery2 img{
+    width: 100%;
+    height: auto;
+ }
+ .desc1{
+    padding: 30px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+ }
+ .head4{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://bruoklahoma.com/wp-content/uploads/2021/10/Bru_CoffeeHouse_WhiteWood.png);
+ }
+ .bruimg img{
+   margin-left: 800px;
+   width: 400px;
+   height:400px;
+   margin-top: 50px;
+ }
+
+ .akhila{
+   margin-left: 83px;
+   color: #333333;
+   margin-top: -395px;
+   font-family: sans-serif;
+
+ }
+ .parag{
+   color: #666666;
+   background:none;
+   width: 60%;
+   text-align: left;
+   margin-left: 83px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 20px;
+   display: block;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   
+
+ }
+ .parah{
+   color: #333333;
+   background:none;
+   width: 60%;
+   text-align: left;
+   margin-left: 83px;  
+   margin-top: 70px;
+   font-weight: bold;
+   font-size: 20px;
+   font-family: sans-serif;
+ }
+ .hai{
+  margin-left: 75px;
+ }
+ .g{
+   color: #333333;
+   line-height: 50px;
+   width: 200px;
+   height: 50px;
+   text-decoration: none;
+   text-transform: uppercase;
+   background-color: transparent;
+   border-color:#333333;
+   font-size: 20px;
+ }
+ .head7{
+   text-align: center;
+   color: #333333;
+ }
+ .container5{
+   max-width: 800px;
+   margin:auto;
+   background: white;
+   display: flex;
+}
+.gallery3{
+   margin:100px;
+   border: 1px solid white;
+   float: left;
+   width:50px;
+   /* margin-bottom: 200px; */
+}
+.gallery3 img{
+   width: 100px;
+   height: auto;
+   margin-top: -250px;
+}
+.desc4{
+   padding: 20px;
+   text-align: left;
+   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-transform: uppercase;
+   font-size: 20px;
+}
+
+  .footer{
+   background:rgba(0,0,0,0.7)url('footer.png');
+   background-size: cover;
+   background-position: center center;
+   object-fit:contain ;
+   background-blend-mode: darken;
+   display: flex;
+   height: 400px;
+   padding: 100px;
+  }
+  .footer div{
+   text-align: center;
+  }
+.f1{
+   flex-grow: 2;
+   color: white;
+   margin-bottom: 150px;
+}
+.f2{
+   color:white;
+   margin-left: 500px;
+   margin-top:-100px;
+
+}
+.icon{
+   margin-right: 300px;
+}
